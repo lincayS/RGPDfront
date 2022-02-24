@@ -1,15 +1,14 @@
 #border{
-    background-color: rgba(129, 158, 238, 0.863);
+    background-color: rgba(129, 185, 238, 0.863);
     border-radius: 30px;
-    box-shadow: 10px 10px 5px lightblue;
+    box-shadow: 10px 10px 10px grey;
+    border: solid 1px white;
 
 
 }
-input{
-    background-color: rgba(6, 143, 207, 0.658);
-}
+
 button{
-    background-color: rgba(6, 143, 207, 0.658);
+    background-color: rgba(129, 185, 238, 0.863);
 
 }
 p{
