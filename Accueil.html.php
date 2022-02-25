@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="script.js"></script>
     <link rel="stylesheet" href="styleacc.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
         integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 </head>
@@ -22,14 +24,17 @@
 </div>
     </div>
     
-<div class="container-fluid justify-content-center d-flex" id="accueil">
-    <img src="img/accueil.png" alt="" id="img" class="">
+<div class="container-fluid  d-flex" id="accueil">
+    <button onclick="menu()" class="btn "><i class="fas fa-bars"></i>
+</button>
+
+    <img src="img/accueil.png" alt="" id="img" class=" offset-3">
 </div>
 
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-9 ml-5 main border border mt-1 ">
+<div class="col-sm ml-5 main border border mt-1 ">
 <img src="img/Interface_accueil.png" class="img-fluid p-2" alt="">
 </div>
 </div>
