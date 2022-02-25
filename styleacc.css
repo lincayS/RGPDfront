@@ -2,13 +2,9 @@
     width: 50px;
 }
 
-.main{
 
-    height: 500px;
-}
 
 a:link, a:visited {
-    color: white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -23,5 +19,24 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: yellow;
+    background-color: rgb(241, 241, 166);
+    border-top:solid 8px rgb(200, 207, 98) ;
+
+    border-bottom:solid 8px rgb(195, 211, 57) ;
+    border-left:solid 8px rgb(217, 219, 72) ;
+    border-right:solid 8px rgb(182, 185, 40) ;
+  }
+
+  #img{
+      width: 100vh;
+      height: 30%;
+  }
+  #accueil{
+      background-color: #BDD7EE;
+  }
+p{ 
+    color: #88bce9;
+}
+  #logo{
+      width: 100px;
   }

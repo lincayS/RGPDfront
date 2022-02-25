@@ -12,19 +12,25 @@
 </head>
 
 <body>
-    <div class="container-fluid">
-        <img src="" alt="logo">
-        <p class="text-center">Mondroit à l'oubli</p>
-        <p class="text-center">Description</p>
+    <div class="container-fluid row">
 
+        <img src="img/LOGO.png" alt="logo" class="" id="logo">
+        <div class="col mt-3">
+        <p class="text-center ">Mon droit à l'Oubli</p>
+    
+        <p class="text-center">Description</p>
+</div>
     </div>
     
+<div class="container-fluid justify-content-center d-flex" id="accueil">
+    <img src="img/accueil.png" alt="" id="img" class="">
+</div>
+
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-9 main border border succsess">
-
-</div>
+<div class="col-9 ml-5 main border border mt-1 ">
+<img src="img/Interface_accueil.png" class="img-fluid p-2" alt="">
 </div>
 </div>
     
