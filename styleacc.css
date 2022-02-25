@@ -1,0 +1,27 @@
+#nav{
+    width: 50px;
+}
+
+.main{
+
+    height: 500px;
+}
+
+a:link, a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     background-color: rgb(60, 118, 224);
+    border-top:solid 8px rgb(109, 163, 224) ;
+
+    border-bottom:solid 8px rgb(57, 57, 211) ;
+    border-left:solid 8px rgb(72, 72, 219) ;
+    border-right:solid 8px rgb(40, 40, 185) ;
+    margin-bottom: 10px;
+    width: 200px;
+  }
+  
+  a:hover, a:active {
+    background-color: yellow;
+  }

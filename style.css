@@ -8,7 +8,13 @@
 }
 
 button{
-    background-color: rgba(129, 185, 238, 0.863);
+    background-color: rgb(57, 57, 206);
+    color: white;
+    border-top:solid 8px rgb(67, 67, 226) ;
+
+    border-bottom:solid 8px rgb(11, 11, 82) ;
+    border-left:solid 8px rgb(29, 29, 167) ;
+    border-right:solid 8px rgb(22, 22, 117) ;
 
 }
 p{
