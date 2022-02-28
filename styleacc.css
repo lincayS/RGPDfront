@@ -4,7 +4,7 @@
 
 
 
-a:link, a:visited {
+.nav-link:link, .nav-link:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -18,7 +18,7 @@ a:link, a:visited {
     width: 200px;
   }
   
-  a:hover, a:active {
+  .nav-link:hover, .nav-link:active {
     background-color: rgb(241, 241, 166);
     border-top:solid 8px rgb(200, 207, 98) ;
 
@@ -40,4 +40,10 @@ p{
 }
   #logo{
       width: 100px;
+  }
+
+  #footer{
+
+    background-color: #BDD7EE;
+
   }

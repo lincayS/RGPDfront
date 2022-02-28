@@ -39,7 +39,9 @@ include "navbar.html.php";
 </div>
 </div>
     
-
+<?php
+include "footer.html.php";
+     ?>
 
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
