@@ -16,6 +16,7 @@
     border-right:solid 8px rgb(40, 40, 185) ;
     margin-bottom: 10px;
     width: 200px;
+    
   }
   
   .nav-link:hover, .nav-link:active {
@@ -35,7 +36,7 @@
   #accueil{
       background-color: #BDD7EE;
   }
-p{ 
+.p{ 
     color: #88bce9;
 }
   #logo{
@@ -47,3 +48,8 @@ p{
     background-color: #BDD7EE;
 
   }
+
+  #bleu{
+
+    background-color: rgb(80, 129, 204);
+}

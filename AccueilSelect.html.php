@@ -20,7 +20,7 @@
         <div class="col mt-3">
         <p class="text-center p ">Mon droit à l'Oubli</p>
     
-        <p class="text-center p ">Description</p>
+        <p class="text-center p">Description</p>
 </div>
     </div>
     
@@ -34,8 +34,57 @@
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 ">
-<img src="img/Interface_accueil.png" class="img-fluid p-2" alt="">
+<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 pb-5" id="bleu">
+
+<div class="row ">
+<div class="col-4 d-flex flex-column align-items-center">
+<h4 class="text-white my-5">BANQUES</h4>
+<img src="img/cross.png" alt="" class="w-50">
+
+<p class="text-white mt-5">Menu liste Banques</p>
+<div class="bg-white w-50">
+    <p>catégorie:</p>
+
+
+    <select name="" id="">
+        <option value="">CLC</option>
+    </select>
+</div>
+
+</div>
+
+<div class="col-4 d-flex flex-column align-items-center">
+<h4 class="text-white my-5">ASSURANCES</h4>
+<img src="img/cross.png" alt="" class="w-50">
+<p class="text-white mt-5">Menu liste Assurances</p>
+<div class="bg-white w-50">
+    <p>catégorie:</p>
+
+
+    <select name="" id="">
+        <option value="">CLC</option>
+    </select>
+</div>
+
+</div>
+
+<div class="col-4 d-flex flex-column align-items-center">
+<h4 class="text-white my-5">E-COMMERCES</h4>
+<img src="img/cross.png" alt="" class="w-50">
+
+<p class="text-white mt-5">Menu liste E-commerces</p>
+<div class="bg-white w-50">
+    <p>catégorie:</p>
+
+
+    <select name="" id="">
+        <option value="">CLC</option>
+    </select>
+</div>
+
+</div>
+
+</div>
 </div>
 </div>
     
