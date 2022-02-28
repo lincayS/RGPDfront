@@ -2,7 +2,7 @@
 
   
 
-<div class="row ml-1"> 
+<div class="row ml-1 mb-2"> 
 <ul class="nav col-2 flex-column align-items-center border mt-1" id="top-menu">
   <li class="nav-item mt-1">
     <a class="nav-link text-reset btn" href="#">Accueil</a>

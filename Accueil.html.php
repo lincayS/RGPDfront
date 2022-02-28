@@ -34,7 +34,7 @@
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-sm ml-5 main border border mt-1 ">
+<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 ">
 <img src="img/Interface_accueil.png" class="img-fluid p-2" alt="">
 </div>
 </div>
