@@ -8,6 +8,8 @@
     <title>Document</title>
     <script src="script.js"></script>
     <link rel="stylesheet" href="styleacc.css">
+    <link rel="stylesheet" href="mirror.css">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
         integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
@@ -28,8 +30,10 @@
     <button onclick="menu()" class="btn "><i class="fas fa-bars"></i>
 </button>
 
-    <img src="img/accueil.png" alt="" id="img" class=" offset-3">
-</div>
+<div id="display" class="col">
+<h3 class="mirror text-center">Accueil</h3>
+<h3 class="mirror text-center" id="flip">Accueil</h3>
+</div></div>
 
      <?php
 include "navbar.html.php";
