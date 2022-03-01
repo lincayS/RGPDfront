@@ -52,6 +52,11 @@ include "navbar.html.php";
 
     <select name="" id="">
         <option value="">CLC</option>
+        <option value="">SG</option>
+        <option value="">BNP</option>
+        <option value="">CA</option>
+        <option value="">CM</option>
+
     </select>
 </div>
 
@@ -66,7 +71,10 @@ include "navbar.html.php";
 
 
     <select name="" id="">
-        <option value="">CLC</option>
+        <option value="">MAIF</option>
+        <option value="">MACIF</option>
+        <option value="">MMA</option>
+
     </select>
 </div>
 
@@ -82,7 +90,11 @@ include "navbar.html.php";
 
 
     <select name="" id="">
-        <option value="">CLC</option>
+        <option value="">AMAZONE</option>
+        <option value="">CDISCOUNT</option>
+        <option value="">FNAC</option>
+        <option value="">BOOKING</option>
+
     </select>
 </div>
 
