@@ -10,6 +10,13 @@
 
 
 }
+#border2{
+    background-color: rgba(114, 145, 211, 0.863);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px grey;
+
+
+}
 
 button{
     background-color: rgb(57, 57, 206);
@@ -21,6 +28,27 @@ button{
     border-right:solid 8px rgb(22, 22, 117) ;
 
 }
-label{
+.btns{
+    background-color: rgb(57, 134, 206);
+    color: white;
+    border-top:solid 8px rgb(67, 162, 226) ;
+
+    border-bottom:solid 8px rgb(11, 56, 82) ;
+    border-left:solid 8px rgb(29, 112, 167) ;
+    border-right:solid 8px rgb(22, 82, 117) ;
+
+}
+p{
     font-weight: bold;
 }
+a:link, a:visited {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(57, 134, 206);
+    border-top:solid 8px rgb(67, 162, 226) ;
+
+    border-bottom:solid 8px rgb(11, 56, 82) ;
+    border-left:solid 8px rgb(29, 112, 167) ;
+    border-right:solid 8px rgb(22, 82, 117) ;
+
+  }
