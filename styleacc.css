@@ -64,3 +64,13 @@
 
     background-color: rgb(80, 129, 204);
 }
+
+#bg{
+  background-image: url('img/LOGOtransparent.png');
+  background-position: center center;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    height: 500px;
+  }
+
+ 
