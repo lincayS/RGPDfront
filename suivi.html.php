@@ -31,39 +31,72 @@
         ?>
 
         <div id="display" class="col pt-2">
-            <h3 class="mirror text-center">À propos de nous</h3>
-            <h3 class="mirror text-center" id="flip">À propos de nous</h3>
+            <h3 class="mirror text-center">Suivre ma demande</h3>
+            <h3 class="mirror text-center" id="flip">Suivre ma demande</h3>
         </div>
-    </div>
     </div>
 
     <?php
     include "navbar.html.php";
     ?>
     <div class="col-sm ml-5 main border border  mr-4 mb-2 " id="bg">
-        <div class="border m-3 p-2">
-            <p class="text-center">FAQ</p>
-            <p class="text-center">Réponses à vos questions les plus fréquentes</p>
+        <h4 id="" class="p-2 suivi d-inline-flex m-3">Suivi de ma demande</h4>
+        <br>
+        <a href="" class="text-reset ml-2"><i class="fa-solid fa-circle"></i>Demander une attestation</a>
+        <p>Suivi n°W064F0H52WB</p>
+        <div class="row">
+
+            <div class="col-3">
+
+                <p><small>Demande formulée depuis le site</small> <br>
+                    <small class="text-muted">02/07/2020</small>
+                </p>
+                
+
+            </div>
+            <div class="col-3">
+
+                <p><small>Réception de votre demande</small> <br>
+                    <small class="text-muted">02/07/2020</small>
+                </p>
+               
+
+            </div>
+
+            <div class="col-3">
+
+                <p><small>Demande transmise à un gestionnaire</small> <br>
+                    <small class="text-muted">02/07/2020</small>
+                </p>
+                
+
+            </div>
+
+            <div class="col-3">
+
+                <p><small>Demande traitée</small> <br>
+                    <small class="text-muted">02/07/2020</small>
+                </p>
+               
+
+            </div>
+
+
 
         </div>
-        <div>
-            <p class="mx-5  b">Je n'arrive pas à me connecter, que dois-je faire ? </p>
-            <p b class=" mx-5"> Il faut réinitialiser votre mot de passe en le déclarant « Mot de passe oublié ? » sur la page de connexion.</p>
-        </div>
-        <div>
-            <p class="mx-5 mt-3 b">Quel est le délai de traitement de ma demande « Mon Droit à l'oubli » ? </p>
-            <p b class=" mx-5"> Le délai légal de traitement d'une demande d'effacement des données personnelles est de 30 jours.</p>
-        </div>
-        <div>
-            <p class="mx-5 mt-3 b">Mon établissement ne fait pas partie des organismes cités, que dois-je faire ? </p>
-            <p b class=" mx-5">Même si nous avons conclus de très nombreux partenariats avec les organismes principaux, certains établissements n'ont pu être intégrés dans notre liste. </p>
-        </div>
 
+        <div class="row">
+        <div class=" col-3 " id="state" style="  background-color: rgb(12, 165, 127);"></div>
+        <div class=" col-3 state" id="" style="  background-color: rgb(12, 165, 127);"></div>
+        <div class=" col-3 state" id="" style="  background-color: rgb(12, 165, 127);"></div>
+        <div class=" col-3 " id="state2"></div>
 
+       
+            </div>
+            </div>
 
-
-    </div>
-    </div>
+</div>
+</div>
 
     <?php
     include "footer.html.php";
