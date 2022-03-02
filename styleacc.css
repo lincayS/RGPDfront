@@ -73,4 +73,7 @@
     height: 500px;
   }
 
- 
+ #menu{
+   font-size: xx-large;
+   color: rgb(84, 141, 226);
+ }

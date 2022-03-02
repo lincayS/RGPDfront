@@ -27,8 +27,9 @@
     </div>
     
 <div class="container-fluid  d-flex" id="accueil">
-    <button onclick="menu()" class="btn "><i class="fas fa-bars"></i>
-</button>
+<?php
+include "button.html.php";
+     ?>
 
 <div id="display" class="col">
 <h3 class="mirror text-center">À propos de nous</h3>
