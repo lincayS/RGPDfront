@@ -73,7 +73,21 @@
     height: 500px;
   }
 
+  #bgcontact{
+    background-image: url('img/LOGOtransparent.png');
+    background-position: center center;
+      background-size: 40%;
+      background-repeat: no-repeat;
+    }
  #menu{
    font-size: xx-large;
    color: rgb(84, 141, 226);
+ }
+
+ label{
+   font-weight: bold;
+ }
+
+ i.fa-solid{
+font-weight: 500;
  }

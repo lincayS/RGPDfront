@@ -32,37 +32,48 @@ include "button.html.php";
      ?>
 
 <div id="display" class="col">
-<h3 class="mirror text-center">Confirmation de votre demande</h3>
-<h3 class="mirror text-center" id="flip">Confirmation de votre demande</h3>
+<h3 class="mirror text-center">Nous contacter</h3>
+<h3 class="mirror text-center" id="flip">Nous contacter</h3>
 </div>
 </div></div>
 
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 ">
-    <p class="mt-5">En application de l'article 106 de la loi Informatique et 
-        libertés et de l'article 17-1 du Règlement général sur la 
-        protection des données (RGPD), je demande l'effacement de 
-        données personnelles me concernant dans vos fichiers <em>champs 
-        type de client </em> </p>
-        <p> Cette demande concerne aussi l'effacement de mes
-         données aux organismes auxquels vous auriez pu les communiquer
-          (article 19 du RGPD).</p>
- <p class="float-right ">Fait le ... /....  
-</p>
-<br>
-          <form action="">
-             <label for="" class="mt-5"> <input type="checkbox" class=" " >
-             <i class="fa-solid fa-asterisk text-danger"></i>Je certifie être le titulaire du compte concerné par cette demande. 
-</label>
-<div class="d-flex justify-content-end mt-3 ">
-<a href="" class=" btns text-reset p-1">Annuler</a>
-              <button type="submit" class=" btns ml-4 ">Confirmer</button>
-          </form>
+<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 " id="bgcontact">
+    <h3 class="m-5"><b>Contact</b></h3>
+ 
+    <form class="mx-5 mt-5">
+        <div class="row col-7">
+  <div class="form-group col-6">
+    <label for="">Nom<i class="fa-solid fa-asterisk text-danger"></i></label>
+    <input type="text" class="form-control" id="" aria-describedby="" >
+    <small id="" class="form-text">Prénom</small>
+  </div>
+  <div class="form-group col-6 ">
+  <label for="" class="text-white">x</label>
+
+    <input type="text" class="form-control" id="" >
+    <small id="" class="form-text">Nom</small>
+
+  </div>
 </div>
-</div>
+<div class="form-group col-6">
+    <label for="">E-mail<i class="fa-solid fa-asterisk text-danger"></i></label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+  </div>
+  <div class="form-group col-6">
+    <label for="">Message<i class="fa-solid fa-asterisk text-danger"></i></label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  
+  <button type="submit" class="btn btn-light ml-3 mb-5">envoyer</button>
+</form>
+          
+
     </div>
+    </div>
+
 <?php
 include "footer.html.php";
      ?>
