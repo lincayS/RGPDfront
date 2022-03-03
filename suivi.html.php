@@ -39,7 +39,7 @@
     <?php
     include "navbar.html.php";
     ?>
-    <div class="col-sm ml-5 main border border  mr-4 mb-2 " id="bg">
+    <div class="col-sm ml-5 main border border  mr-4 mb-2 " id="size">
         <h4 id="" class="p-2 suivi d-inline-flex m-3">Suivi de ma demande</h4>
         <br>
         <a href="" class="text-reset ml-2"><i class="fa-solid fa-circle"></i>Demander une attestation</a>
@@ -75,27 +75,32 @@
             <div class="col-3">
 
                 <p><small>Demande traitée</small> <br>
-                    <small class="text-muted">02/07/2020</small>
+                    <small class="text-muted"></small>
                 </p>
                
 
             </div>
 
-
-
         </div>
 
-        <div class="row">
+        <div class="row mx-1">
         <div class=" col-3 " id="state" style="  background-color: rgb(12, 165, 127);"></div>
         <div class=" col-3 state" id="" style="  background-color: rgb(12, 165, 127);"></div>
         <div class=" col-3 state" id="" style="  background-color: rgb(12, 165, 127);"></div>
         <div class=" col-3 " id="state2"></div>
-
-       
             </div>
-            </div>
-
+    <!-- if demande validée == true -->
+            <div class="suivi text-success text-center p-2 mt-3">Demande validée, vous pouvez désormais télécharger ou imprimer votre demande.</div>
+<!-- else <div class="suivi text-danger text-center mt-5">Demande en cours de traitement.</div>
+           --> 
+<div class=" d-flex justify-content-around mt-4">
+            <a href="" class="buttonssuivi p-1 text-reset ">Visualiser</a>
+<a href="" class="buttonssuivi p-1 text-reset ">Télécharger</a>
+<a href="" class="buttonssuivi p-1 text-reset ">Imprimer</a>
 </div>
+            </div>
+
+</div> 
 </div>
 
     <?php
