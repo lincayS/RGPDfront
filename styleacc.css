@@ -37,6 +37,7 @@
     border-bottom:solid 8px rgb(195, 211, 57) ;
     border-left:solid 8px rgb(217, 219, 72) ;
     border-right:solid 8px rgb(182, 185, 40) ;
+
   }
 
   #img{
@@ -132,4 +133,6 @@ font-weight: 500;
  #size{
    height: 500px;
  }
-
+#bgForum{
+  background-color: #1a6db673;
+}
