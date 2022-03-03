@@ -28,6 +28,9 @@
    <li class="nav-item">
     <a class="nav-link text-reset btn " href="#">FAQ</a>
   </li>
+  <li class="nav-item">
+    <a class="nav-link text-reset btn " href="#">Forum</a>
+  </li>
 </ul>
 
 
