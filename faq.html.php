@@ -40,7 +40,7 @@
     <?php
     include "navbar.html.php";
     ?>
-    <div class="col-sm ml-5 main border border  mr-4 mb-2 " id="bg">
+    <div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 " id="bg">
         <div class="border m-3 p-2">
             <p class="text-center">FAQ</p>
             <p class="text-center">Réponses à vos questions les plus fréquentes</p>

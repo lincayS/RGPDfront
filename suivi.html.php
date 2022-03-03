@@ -39,7 +39,7 @@
     <?php
     include "navbar.html.php";
     ?>
-    <div class="col-sm ml-5 main border border  mr-4 mb-2 " id="size">
+    <div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 " id="size">
         <h4 id="" class="p-2 suivi d-inline-flex m-3">Suivi de ma demande</h4>
         <br>
         <a href="" class="text-reset ml-2"><i class="fa-solid fa-circle"></i>Demander une attestation</a>
