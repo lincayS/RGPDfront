@@ -108,18 +108,18 @@
 
                     <div class="row ml-4 ">
 
-                        <p class="">Date de naissance:</p>
+                        <p class="">Téléphone:</p>
                         <form action="">
                             <input type="text" class="form-control w-50 mb-3">
                     </div>
 
                     <div class="row ml-4">
-                        <p class="">Adresse email:</p>
+                        <p class="">Etablissement:</p>
                         <input type="text" class=" form-control w-50 mb-3 ">
                     </div>
                     <div class="row ml-4">
 
-                        <div class="">Compte client: </div>
+                        <div class="">Identifiant: </div>
                         <input type="text" class=" form-control w-50 ">
                     </div>
                 </div>
