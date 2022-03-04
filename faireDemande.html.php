@@ -31,8 +31,8 @@
         ?>
 
         <div id="display" class="col pt-2">
-            <h3 class="mirror text-center">À propos de nous</h3>
-            <h3 class="mirror text-center" id="flip">À propos de nous</h3>
+            <h3 class="mirror text-center">Formulaire</h3>
+            <h3 class="mirror text-center" id="flip">Formulaire</h3>
         </div>
     </div>
     </div>
