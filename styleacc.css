@@ -131,8 +131,14 @@ font-weight: 500;
   border-right:solid 8px rgb(184, 181, 181) ;
  }
  #size{
-   height: 500px;
+   height: 550px;
  }
 #bgForum{
   background-color: #1a6db673;
+}
+#border2{
+  background-color: rgba(114, 145, 211, 0.863);
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px grey;
+ border: solid 1px white;
 }

@@ -40,7 +40,7 @@ include "button.html.php";
      <?php
 include "navbar.html.php";
      ?>
-<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 ">
+<div class="col-sm ml-5 main border border mt-1 mr-4 mb-2 " id="size">
     <p class="mt-5">En application de l'article 106 de la loi Informatique et 
         libertés et de l'article 17-1 du Règlement général sur la 
         protection des données (RGPD), je demande l'effacement de 
@@ -56,7 +56,7 @@ include "navbar.html.php";
              <label for="" class="mt-5"> <input type="checkbox" class=" " >
              <i class="fa-solid fa-asterisk text-danger"></i>Je certifie être le titulaire du compte concerné par cette demande. 
 </label>
-<div class="d-flex justify-content-end mt-3 ">
+<div class="d-flex justify-content-end m-3 ">
 <a href="" class=" btns text-reset p-1">Annuler</a>
               <button type="submit" class=" btns ml-4 ">Confirmer</button>
           </form>
