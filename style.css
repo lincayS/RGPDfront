@@ -4,7 +4,7 @@
 
 #border{
     background-color: rgba(129, 185, 238, 0.863);
-    border-radius: 30px;
+    border-radius: 70px;
     box-shadow: 10px 10px 10px grey;
     border: solid 1px white;
 
@@ -12,7 +12,7 @@
 }
 #border2{
     background-color: rgba(114, 145, 211, 0.863);
-    border-radius: 30px;
+    border-radius: 70px;
     box-shadow: 10px 10px 10px grey;
 
 

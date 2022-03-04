@@ -138,7 +138,7 @@ font-weight: 500;
 }
 #border2{
   background-color: rgba(114, 145, 211, 0.863);
-  border-radius: 30px;
+  border-radius: 80px;
   box-shadow: 10px 10px 10px grey;
  border: solid 1px white;
 }
