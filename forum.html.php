@@ -41,7 +41,7 @@ include "navbar.html.php";
 <div class=" p-2 row rounded m-3" id="bgForum">
 <div class="col-3 border border-white h-75 p-0 rounded">
     <div class="h-50 bg-white d-flex justify-content-center">
-    <img src="img/téléchargement.png" alt="" class=" w-50">
+    <img src="img/user.jpeg" alt="" class=" w-50">
 </div>
     <div class=" bg-light p-2  ">
        <small><b> user2home </b></small> 
@@ -61,7 +61,7 @@ include "navbar.html.php";
    <div class=" p-2 row rounded m-3" id="bgForum">
 <div class="col-3 border border-white h-75 p-0 rounded">
     <div class="h-50 bg-white d-flex justify-content-center">
-    <img src="img/téléchargement.png" alt="" class=" w-50">
+    <img src="img/user.jpeg" alt="" class=" w-50">
 </div>
     <div class=" bg-light p-2  ">
        <small><b> user2home </b></small> 
@@ -80,7 +80,7 @@ include "navbar.html.php";
    <div class=" p-2 row rounded m-3" id="bgForum">
 <div class="col-3 border border-white h-75 p-0 rounded">
     <div class="h-50 bg-white d-flex justify-content-center">
-    <img src="img/téléchargement.png" alt="" class=" w-50">
+    <img src="img/user.jpeg" alt="" class=" w-50">
 </div>
     <div class=" bg-light p-2  ">
        <small><b> user2home </b></small> 
