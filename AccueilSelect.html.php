@@ -16,15 +16,9 @@
 </head>
 
 <body>
-    <div class="container-fluid row">
-
-        <img src="img/LOGO.png" alt="logo" class="" id="logo">
-        <div class="col mt-3">
-        <p class="text-center p ">Mon droit à l'Oubli</p>
-    
-        <p class="text-center p">Description</p>
-</div>
-    </div>
+    <?php
+        include "header.html.php";
+        ?>
     
 <div class="container-fluid  d-flex" id="accueil">
 <?php
@@ -52,7 +46,7 @@ include "navbar.html.php";
 
 
     <select name="" id="">
-        <option value="">CLC</option>
+        <option value="">LCL</option>
         <option value="">SG</option>
         <option value="">BNP</option>
         <option value="">CA</option>
@@ -91,7 +85,7 @@ include "navbar.html.php";
 
 
     <select name="" id="">
-        <option value="">AMAZONE</option>
+        <option value="">AMAZON</option>
         <option value="">CDISCOUNT</option>
         <option value="">FNAC</option>
         <option value="">BOOKING</option>
