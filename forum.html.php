@@ -100,7 +100,7 @@ include "navbar.html.php";
 </div>
 
    </div>
-   <a href="" class="buttonssuivi p-1 text-reset m-3 ">Règlement intérieur du forum</a>
+   <a href="/règlementForum.html.php" class="buttonssuivi p-1 text-reset m-3 ">Règlement intérieur du forum</a>
 
 
     </div>
