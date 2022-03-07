@@ -29,6 +29,7 @@
             <h3 class="mirror text-center" id="flip">Suivre ma demande</h3>
         </div>
     </div>
+    <div class="row ml-1 mb-2"> 
 
     <?php
     include "navbar.html.php";

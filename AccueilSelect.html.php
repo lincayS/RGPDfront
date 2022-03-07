@@ -29,6 +29,7 @@ include "button.html.php";
 <h3 class="mirror text-center">Accueil</h3>
 <h3 class="mirror text-center" id="flip">Accueil</h3>
 </div></div>
+<div class="row ml-1 mb-2"> 
 
      <?php
 include "navbar.html.php";

@@ -30,6 +30,8 @@
         </div>
     </div>
     </div>
+    <div class="row ml-1 mb-2"> 
+
 
     <?php
     include "navbar.html.php";
