@@ -43,7 +43,8 @@
 <p>• Les messages racistes, xénophobes, révisionnistes, faisant l'apologie de crime de guerre, discriminant ou incitant à la haine à l'encontre d'une personne, d'un groupe de personnes en raison de leurs origines, leur ethnie, leurs croyances ou leur mode de vie. </p>
 <p>• Les messages à caractère insultants, violents, menaçants, au contenu choquant ou portant atteinte à la dignité humaine.</p>   
 <p>• Les messages diffamatoires.</p>
-<p> • Les messages bafouant le respect à la vie privée. • Les messages contraires aux lois en vigueur en France.</p>
+<p> • Les messages bafouant le respect à la vie privée.</p> 
+ <p> • Les messages contraires aux lois en vigueur en France.</p>
 <p>• Toute demande d'aide au piratage quel qu'il soit ainsi que les messages détaillant une procédure de piratage.</p>
 <p>• Les messages dans le but de nuire au forum tel que le flood ou bien ceux générant une mauvaise ambiance ou un mauvais esprit.</p>
 <p>• Les messages inintelligibles ou hors sujets.</p>
